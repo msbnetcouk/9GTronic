@@ -1,6 +1,7 @@
 # 9GTronic - Automating GNS3 virtual router labs
 
 ql@schumacher:/gns3labs$ d
+
 ./  ../  ibgp-final-configs.zip
 ql@schumacher:/gns3labs$
 
