@@ -22,8 +22,6 @@ USAGE: python 9GTronic.py <project name> <project path>
 
 Example:  python 9GTronic.py iBGP /gns3labs/IBGP\ Internal\ BGP/
 
-ql@schumacher:~$ 
-ql@schumacher:~$ 
 ql@schumacher:~$ python 9GTronic.py iBGP /gns3labs/IBGP\ Internal\ BGP/
 
 GNS Server: 2.2.12
